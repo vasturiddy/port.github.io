@@ -1,0 +1,121 @@
+/* .heading{
+    color: salmon;
+    text-align: center;
+    margin-left: 40px;
+    padding: 30px;
+}
+button{
+    background-color:dodgerblue;
+    border-radius: 6px;
+}
+img{
+    margin-left: 10px;
+    margin-top: 30px;
+    margin-right: 10px;
+
+}
+.footer{
+    margin: 30px;
+    padding: 20px;
+}
+.row{
+    background-color:purple;
+    box-shadow: 30px;
+    border-radius: 30px;
+    padding: 30px;
+} */
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: lightgray;
+    padding: 20px;
+    text-align: center;
+}
+
+img{
+    width: 60px;
+    height: auto;
+    border-radius:30%;
+    float:left;
+    width:30%; 
+    margin-right:10px;
+}
+nav {
+    background-color: darkgray;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav li {
+    margin: 0 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: block;
+}
+
+nav a:hover {
+    background-color: gray;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin: 20px 0;
+}
+
+#projects{
+    align-items: center;
+    background-color: rgb(9, 120, 128);
+    box-shadow: 30px;
+    border-radius: 30px;
+    padding: 30px;
+}
+#contact{
+    background-color: rgb(128, 23, 155);
+    box-shadow: 30px;
+    border-radius: 30px;
+    padding: 30px;
+}
+footer {
+    background-color: lightgray;
+    padding: 20px;
+    text-align: center;
+}
+label{
+    font-size: larger;
+    font-style: italic;
+    padding: 10px;
+    margin-left: 30px;
+}
+input{
+    margin-left: px;
+}
+.btn{
+    padding: 5px;
+    border-radius: 20px;
+}
+h3{
+    font-size: x-large;
+}
+p{
+    font-size: large;
+    padding: 10px;
+}
